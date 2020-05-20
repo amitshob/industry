@@ -1,5 +1,5 @@
 # industry
-Demo for Spotgini chat window for an industrial website
+Demo for chat window for an industrial website
 Demo website for chat window Go to https://amitshob.github.io/industry/ Click in the chat window at the bottom right. This is an example of conversation you can create with spotgini.
 
 - Talk and engage your visitors even before they send you a message. Build confidence in them.
